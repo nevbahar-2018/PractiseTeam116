@@ -38,5 +38,8 @@ public class Soru2_StringManipulations {
             System.out.println("lutfen iki kelimelik isim giriniz!!!");
         }
 
+        System.out.println("Hello World");
+
+
     }
 }
